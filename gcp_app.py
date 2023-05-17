@@ -42,7 +42,7 @@ st.title('Google Driveからファイルを読み込む')
 # ファイルIDを入力する
 #file_id = st.text_input('Google DriveのファイルIDを入力してください')
 
-file_id = "1-1s68rebGP1D8LbXM2nrw8YCFZ2XoiIq"
+file_id = "1jQQ66auz3QGCV21IGrZ2to-mJMFPNhIn"
 
 # ファイルを読み込む
 if file_id:
