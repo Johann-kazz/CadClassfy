@@ -1,0 +1,17 @@
+プロジェクト:circit20230511
+
+APIキー
+AIzaSyAugg88TNMmUV6JS7UhLBs-znjhedC-zSI
+
+OAuth 2.0 クライアント ID
+クライアント ID
+68866087681-298v3rlj7sjuidggkhjo9brpneb8ssip.apps.googleusercontent.com
+クライアント シークレット
+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
+
+IAM と管理(サービス アカウント)
+サービス アカウント
+gcp-samp-20230512
+サービス アカウントID
+gcp-samp-20230512
+メールアドレス: gcp-samp-20230512@circit20230511.iam.gserviceaccount.com

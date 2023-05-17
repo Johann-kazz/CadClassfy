@@ -1,0 +1,16 @@
+###### Requirements with Version Specifiers ######
+#docopt == 0.6.1             # Version Matching. Must be version 0.6.1 サンプルコメント
+#keyring >= 4.1.1            # Minimum version 4.1.1
+#coverage != 3.5             # Version Exclusion. Anything except version 3.5
+#Mopidy-Dirble ~= 1.1        # Compatible release. Same as >= 1.1, == 1.*
+
+streamlit == 1.22.0         # 2023/05/17
+pandas == 1.5.3
+ezdxf == 0.14.2
+fasttext == 0.9.2
+requests == 2.29.0
+
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
